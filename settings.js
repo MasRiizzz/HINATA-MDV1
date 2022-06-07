@@ -24,7 +24,7 @@
 
   // Other
   global.ownername = 'Rizki Muhammad Adam' // Ganti Jadi Namamu
-  global.owner = ['6285876810596','6285876810596','6285876810596'] // Kalo Mau Lebih Tambahin Aja
+  global.owner = ['6285876810596','6285876810596','6288801345356'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6285876810596' // Owner Utama Istilahnya
   global.botname = 'MasRiizzz-Md' // Ganti Jadi Nama Botmu
   global.packname = '2022' // Sticker Weem
