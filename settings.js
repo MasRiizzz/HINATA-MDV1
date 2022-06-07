@@ -16,9 +16,9 @@
   global.autoReadAll = false // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
   global.anticall = false // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
   global.available = false // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
-  global.autoTyping = false // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
-  global.autoRecord = true // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
-  global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
+  global.autoTyping = true // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
+  global.autoRecord = false // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
+  global.multiplier = 699 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
   global.limitCount = 70 // 70 Dah Pas Banh
   global.prefa = ['','.','/','#']
 
@@ -27,12 +27,12 @@
   global.owner = ['6285876810596','6285876810596','6285876810596'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6285876810596' // Owner Utama Istilahnya
   global.botname = 'Hinata-Md' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata-Md' // Sticker Weem
+  global.packname = 'Rizki Muhammad Adam' // Sticker Weem
   global.author = 'Rizki Muhammad Adam' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
+  global.linkgroup = 'https://chat.whatsapp.com/HU5otgsxqLc3jQcehtDAij' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
-  global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qEkhfw' // Ganti Sama Link Yt Mu
+  global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVe4BJ7w4qEkhfw' // Ganti Sama Link Yt Mu
   global.github = 'https://github.com/MasRiizzz' // Ganti Sama Link Github Mu
   global.instagram = 'https://instagram.com/rizzkymaa' // Ganti Sama Link Ig mu
 
@@ -62,8 +62,8 @@
   group: '_Khusus Group 😏_',
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
-  wait: '_Sabar Sedang Di Proses🤗 ..._',
-  done: '_✅Done Ngab_',
+  wait: '_Sabar Sedang Di Proses ..._',
+  done: '_✅Done, jangan lupa donasi_',
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
