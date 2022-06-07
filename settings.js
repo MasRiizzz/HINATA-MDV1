@@ -67,7 +67,7 @@
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
-  global.thumb = fs.readFileSync('./media/hinata.jpg')
+  global.thumb = fs.readFileSync('./media/Proyek Baru 1 [DC23A0C].png')
     
   // Ini Gausah Diubah
   let file = require.resolve(__filename)
