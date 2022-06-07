@@ -102,4 +102,4 @@ global.instagram = 'https://instagram.com/riychdwayne'
 - Ryuka Team
 - Deff
 - Yoga
-- Riy
+- Rizki Muhammad Adam
