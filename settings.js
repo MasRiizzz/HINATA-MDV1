@@ -26,9 +26,9 @@
   global.ownername = 'Rizki Muhammad Adam' // Ganti Jadi Namamu
   global.owner = ['6285876810596','6285876810596','6285876810596'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6285876810596' // Owner Utama Istilahnya
-  global.botname = 'Hinata-Md' // Ganti Jadi Nama Botmu
-  global.packname = 'Rizki Muhammad Adam' // Sticker Weem
-  global.author = 'Rizki Muhammad Adam' // Sticker Weem
+  global.botname = 'MasRiizzz-Md' // Ganti Jadi Nama Botmu
+  global.packname = '2022' // Sticker Weem
+  global.author = '© Rizki Muhammad Adam' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/HU5otgsxqLc3jQcehtDAij' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
